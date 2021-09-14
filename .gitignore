@@ -1,0 +1,7 @@
+**/__pycache__
+**/.DS_Store
+analysis_manager.json
+page_manager.json
+persisted_urls.json
+session_manager.json
+chromedriver
